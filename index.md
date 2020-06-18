@@ -1,12 +1,8 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
-I am a PhD. candidate in Southeast University,China. My research is Bionic Prosthesis.
+I am a Third-year Ph.D. candidate majoring in the research of Bionic Prostheses since 2016, focusing on sEMG based motion recognition.
 
 ---
-layout: default
----
-
 {% include 01-name.md %}
 
 <br>
