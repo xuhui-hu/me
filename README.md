@@ -1,2 +1,2 @@
 # me
-it's an introduction page for me and my research
+it's an introduction portfolio for me and my research
