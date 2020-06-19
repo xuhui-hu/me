@@ -3,9 +3,7 @@ layout: default
 ---
 # My Projects
 * * *
-[_**2018.5 R&D of a Multi-finger Prosthetic Hand**_](https://www.youtube.com/watch?v=pflYb0izIks)
-
-	This is a self-designed myoelectric controlled prosthesis. The sEMG is collected from the right stump limb by a MYO, the left limb is attached with a vibrator which indicated the force and hand aperture information. The total training time is less than 20 min, this video showed great stability compared with the state of art in pattern recognition based prosthesis.
+|[_**2018.5 R&D of a Multi-finger Prosthetic Hand**_](https://www.youtube.com/watch?v=pflYb0izIks)|This is a self-designed myoelectric controlled prosthesis. The sEMG is collected from the right stump limb by a MYO, the left limb is attached with a vibrator which indicated the force and hand aperture information. The total training time is less than 20 min, this video showed great stability compared with the state of art in pattern recognition based prosthesis.|
 
 ![Multi-Finger_Hand](./picture/Multi-Finger_Hand.png)
 * * *
