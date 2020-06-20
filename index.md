@@ -4,6 +4,34 @@ layout: default
 
 # My Projects
 * * *
+[_**Bionic Prostheses Research supported by NSFC**_](https://www.youtube.com/watch?v=pflYb0izIks)
+
+<div style="text-align: justify">
+content
+</div>
+ 
+![MYO_HAND](./picture/bionic_hand.png)
+
+
+* * *
+[_**sEMG based HMI support by National Key R&D Plan**_](https://www.youtube.com/watch?v=pGgMdULWBn0)
+
+<div style="text-align: justify">
+content
+</div>
+
+![LEAP_HAND](./picture/virtual_hand.gif)
+
+* * *
+[_**2019.3 R&D of Robotic Hand for Science Exhibits**_](https://www.youtube.com/watch?v=pGgMdULWBn0)
+
+<div style="text-align: justify">
+content
+</div>
+
+![LEAP_HAND](./picture/leap_hand.gif)
+
+* * *
 [_**2018.5 R&D of a Multi-finger Prosthetic Hand**_](https://www.youtube.com/watch?v=pflYb0izIks)
 
 <div style="text-align: justify">
