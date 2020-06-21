@@ -4,7 +4,7 @@ title: About me page
 description: This is the page of "About me"
 ---
 
-# ABOUT ME &nbsp;    [BACK](./)
+# [My Projects](./index.md) &nbsp;    [Press](./press.md) &nbsp;    About Me
 
-{% include about_me.html %}
+{% include 062111163548.html %}
 

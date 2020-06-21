@@ -1,0 +1,467 @@
+sup {
+	position: relative;
+	top: -0.4em;
+	vertical-align: baseline;
+}
+sub {
+	position: relative;
+	top: 0.4em;
+	vertical-align: baseline;
+}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) { .view { font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.layer { }.ie { font-size: 1pt; }
+.ie body { font-size: 12em; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	height: 70.16666em;
+	font-size: 1em;
+	margin: 0em;
+	line-height: 0.0em;
+	display: block;
+	border-style: none;
+	width: 49.58333em;
+}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 49.58333em;
+}
+.stl_06 {
+	height: 7.016666em;
+}
+.ie .stl_06 {
+	height: 70.16666em;
+}
+.stl_07 {
+	transform: scale(1,1);
+	-o-transform: scale(1,1);
+	-ms-transform: matrix(1,0,0,1,0,-0.4378072);
+	-moz-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+}
+@font-face {
+	font-family:"NGVUKN+Ubuntu-Regular";
+	src:url("eb9bddda-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_08 {
+	font-size: 0.66654em;
+	font-family: "NGVUKN+Ubuntu-Regular";
+	color: #000000;
+}
+.stl_09 {
+	line-height: 0.547363em;
+}
+.stl_10 {
+	letter-spacing: -0.0002em;
+}
+
+.ie .stl_10 {
+	letter-spacing: -0.0024px;
+}
+.stl_11 {
+	transform: scale(1,1);
+	-o-transform: scale(1,1);
+	-ms-transform: matrix(1,0,0,1,0,-1.8);
+	-moz-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+}
+.stl_12 {
+	letter-spacing: -0.0001em;
+}
+
+.ie .stl_12 {
+	letter-spacing: -0.0013px;
+}
+.stl_13 {
+	transform: scale(1,1);
+	-o-transform: scale(1,1);
+	-ms-transform: matrix(1,0,0,1,0,-1.263387);
+	-moz-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+}
+.stl_14 {
+	font-size: 1.923443em;
+	font-family: "NGVUKN+Ubuntu-Regular";
+	color: #2B343F;
+}
+.stl_15 {
+	letter-spacing: 0em;
+}
+
+.ie .stl_15 {
+	letter-spacing: -0.0014px;
+}
+.stl_16 {
+	transform: scale(1,1);
+	-o-transform: scale(1,1);
+	-ms-transform: matrix(1,0,0,1,0,-1.7);
+	-moz-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+}
+.stl_17 {
+	font-size: 1.009332em;
+	font-family: "NGVUKN+Ubuntu-Regular";
+	color: #4F90CD;
+}
+.stl_18 {
+	letter-spacing: -0.0048em;
+}
+
+.ie .stl_18 {
+	letter-spacing: -0.0776px;
+}
+.stl_19 {
+	letter-spacing: -0.0003em;
+}
+
+.ie .stl_19 {
+	letter-spacing: -0.0035px;
+}
+.stl_20 {
+	letter-spacing: -0.0032em;
+}
+
+.ie .stl_20 {
+	letter-spacing: -0.0341px;
+}
+.stl_21 {
+	transform: scale(1,1);
+	-o-transform: scale(1,1);
+	-ms-transform: matrix(1,0,0,1,0,-0.4878424);
+	-moz-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+}
+.stl_22 {
+	font-size: 0.742716em;
+	font-family: "NGVUKN+Ubuntu-Regular";
+	color: #000000;
+}
+.stl_23 {
+	letter-spacing: -0.001em;
+}
+
+.ie .stl_23 {
+	letter-spacing: -0.0114px;
+}
+.stl_24 {
+	transform: scale(1,1);
+	-o-transform: scale(1,1);
+	-ms-transform: matrix(1,0,0,1,0,-1);
+	-moz-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+}
+.stl_25 {
+	transform: scale(1,1);
+	-o-transform: scale(1,1);
+	-ms-transform: matrix(1,0,0,1,0,-0.7630355);
+	-moz-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+}
+@font-face {
+	font-family:"EDJEQS+Ubuntu-Bold";
+	src:url("7d94cf6e-0001-0000-0000-000000000000.woff") format("woff");
+}
+.stl_26 {
+	font-size: 1.161683em;
+	font-family: "EDJEQS+Ubuntu-Bold";
+	color: #000000;
+}
+.stl_27 {
+	letter-spacing: -0.0062em;
+}
+
+.ie .stl_27 {
+	letter-spacing: -0.1157px;
+}
+.stl_28 {
+	letter-spacing: 0.0031em;
+}
+
+.ie .stl_28 {
+	letter-spacing: 0.058px;
+}
+.stl_29 {
+	transform: scale(1,1);
+	-o-transform: scale(1,1);
+	-ms-transform: matrix(1,0,0,1,0,-0.6629652);
+	-moz-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+}
+.stl_30 {
+	font-size: 1.009332em;
+	font-family: "EDJEQS+Ubuntu-Bold";
+	color: #000000;
+}
+.stl_31 {
+	letter-spacing: -0.0013em;
+}
+
+.ie .stl_31 {
+	letter-spacing: -0.0217px;
+}
+.stl_32 {
+	font-size: 0.742716em;
+	font-family: "NGVUKN+Ubuntu-Regular";
+	color: #FFFFFF;
+}
+.stl_33 {
+	font-size: 1.009332em;
+	font-family: "NGVUKN+Ubuntu-Regular";
+	color: #000000;
+}
+.stl_34 {
+	letter-spacing: -0.0012em;
+}
+
+.ie .stl_34 {
+	letter-spacing: -0.0198px;
+}
+@font-face {
+	font-family:"MBEMLV+Ubuntu-Italic";
+	src:url("5b7c68d5-0002-0000-0000-000000000000.woff") format("woff");
+}
+.stl_35 {
+	font-size: 0.66654em;
+	font-family: "MBEMLV+Ubuntu-Italic";
+	color: #4F90CD;
+}
+.stl_36 {
+	letter-spacing: -0.0011em;
+}
+
+.ie .stl_36 {
+	letter-spacing: -0.0136px;
+}
+.stl_37 {
+	transform: scale(1,1);
+	-o-transform: scale(1,1);
+	-ms-transform: matrix(1,0,0,1,0,-2.5);
+	-moz-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+}
+.stl_38 {
+	letter-spacing: -0.0049em;
+}
+
+.ie .stl_38 {
+	letter-spacing: -0.0527px;
+}
+.stl_39 {
+	transform: scale(1,1);
+	-o-transform: scale(1,1);
+	-ms-transform: matrix(1,0,0,1,0,-1.1);
+	-moz-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+}
+.stl_40 {
+	transform: scale(1,1);
+	-o-transform: scale(1,1);
+	-ms-transform: matrix(1,0,0,1,0,-1.2);
+	-moz-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+}
+.stl_41 {
+	letter-spacing: -0.0018em;
+}
+
+.ie .stl_41 {
+	letter-spacing: -0.0217px;
+}
+.stl_42 {
+	letter-spacing: -0.0031em;
+}
+
+.ie .stl_42 {
+	letter-spacing: -0.0501px;
+}
+.stl_43 {
+	font-size: 0.742717em;
+	font-family: "NGVUKN+Ubuntu-Regular";
+	color: #000000;
+}
+.stl_44 {
+	letter-spacing: -0.0009em;
+}
+
+.ie .stl_44 {
+	letter-spacing: -0.0108px;
+}
+.stl_45 {
+	letter-spacing: -0.0022em;
+}
+
+.ie .stl_45 {
+	letter-spacing: -0.0265px;
+}
+.stl_46 {
+	letter-spacing: -0.0015em;
+}
+
+.ie .stl_46 {
+	letter-spacing: -0.0177px;
+}
+.stl_47 {
+	letter-spacing: -0.0016em;
+}
+
+.ie .stl_47 {
+	letter-spacing: -0.0302px;
+}
+.stl_48 {
+	transform: scale(1,1);
+	-o-transform: scale(1,1);
+	-ms-transform: matrix(1,0,0,1,0,-0.5503863);
+	-moz-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+}
+.stl_49 {
+	font-size: 0.837936em;
+	font-family: "NGVUKN+Ubuntu-Regular";
+	color: #000000;
+}
+.stl_50 {
+	font-size: 0.837933em;
+	font-family: "NGVUKN+Ubuntu-Regular";
+	color: #000000;
+}
+.stl_51 {
+	letter-spacing: -0.0004em;
+}
+
+.ie .stl_51 {
+	letter-spacing: -0.006px;
+}
+.stl_52 {
+	font-size: 0.66654em;
+	font-family: "MBEMLV+Ubuntu-Italic";
+	color: #7C7C7C;
+}
+.stl_53 {
+	font-size: 0.666542em;
+	font-family: "NGVUKN+Ubuntu-Regular";
+	color: #000000;
+}
+.stl_54 {
+	letter-spacing: -0.0017em;
+}
+
+.ie .stl_54 {
+	letter-spacing: -0.0225px;
+}
+.stl_55 {
+	letter-spacing: -0.0056em;
+}
+
+.ie .stl_55 {
+	letter-spacing: -0.1037px;
+}
+.stl_56 {
+	letter-spacing: -0.0024em;
+}
+
+.ie .stl_56 {
+	letter-spacing: -0.0261px;
+}
+.stl_57 {
+	letter-spacing: -0.0061em;
+}
+
+.ie .stl_57 {
+	letter-spacing: -0.1133px;
+}
+.stl_58 {
+	letter-spacing: -0.0028em;
+}
+
+.ie .stl_58 {
+	letter-spacing: -0.0375px;
+}
+.stl_59 {
+	letter-spacing: -0.0025em;
+}
+
+.ie .stl_59 {
+	letter-spacing: -0.0263px;
+}
+.stl_60 {
+	letter-spacing: -0.0023em;
+}
+
+.ie .stl_60 {
+	letter-spacing: -0.0423px;
+}
+.stl_61 {
+	transform: scale(1,1);
+	-o-transform: scale(1,1);
+	-ms-transform: matrix(1,0,0,1,0,-0.8);
+	-moz-transform: scale(1,1);
+	-webkit-transform: scale(1,1);
+}
+@font-face {
+	font-family:"SEFSWS+ArialMT";
+	src:url("430aad54-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_62 {
+	font-size: 0.837933em;
+	font-family: "SEFSWS+ArialMT";
+	color: #000000;
+}
+.stl_63 {
+	line-height: 1.117188em;
+}
+@font-face {
+	font-family:"SVDABC+Arial-ItalicMT";
+	src:url("3b93c84f-0002-0000-0000-000000000000.woff") format("woff");
+}
+.stl_64 {
+	font-size: 0.837933em;
+	font-family: "SVDABC+Arial-ItalicMT", "Times New Roman";
+	color: #000000;
+}
+.stl_65 {
+	letter-spacing: -0.005em;
+}
+
+.ie .stl_65 {
+	letter-spacing: -0.0922px;
+}
+.stl_66 {
+	letter-spacing: 0.0176em;
+}
+
+.ie .stl_66 {
+	letter-spacing: 0.2358px;
+}
+.stl_67 {
+	letter-spacing: 0.018em;
+}
+
+.ie .stl_67 {
+	letter-spacing: 0.2412px;
+}
+.stl_68 {
+	letter-spacing: 0.0172em;
+}
+
+.ie .stl_68 {
+	letter-spacing: 0.2309px;
+}
+.stl_69 {
+	letter-spacing: 0.0169em;
+}
+
+.ie .stl_69 {
+	letter-spacing: 0.2272px;
+}
