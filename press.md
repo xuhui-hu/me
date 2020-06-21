@@ -1,10 +1,10 @@
---f
+---
 layout: default
 title: Press page
 description: This is the page of "Press"
 ---
 
-# [My Projects](./index.md) &nbsp;    [Press] &nbsp;    [About Me](./about_me.md)
+# [My Projects](./index.md) &nbsp;    Press &nbsp;    [About Me](./about_me.md)
 
 ## Publication
 1. X. Hu et al., Real-Time Continuous Hand Motion Myoelectric Decoding by Automated Data Labeling. International Conference on Robotics and Automation(ICRA), Paris, France, 2020, pp. 6951- 6957  
