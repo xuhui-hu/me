@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: About me page
+description: This is the page of "About me"
 ---
 
-## About Me
+# ABOUT ME &nbsp;    [BACK](./)
 
-_yay_
+{% include about_me.html %}
 
-[back](./)

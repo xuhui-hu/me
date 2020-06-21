@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Press page
+description: This is the page of "Press"
 ---
 
-## Press
+# PRESS &nbsp;    [BACK](./)
 
-_yay_
-
-[back](./)
+* * *
+[_**The science camp at Southeast University is coming**_](./press/ceremony.pdf)
