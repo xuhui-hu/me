@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# *My Projects'     '*[Press](./press.md)'     '*[About Me](./about_me.md)
+# *My Projects      #*[Press](./press.md)      #*[About Me](./about_me.md)
 * * *
 [_**Bionic Prostheses Research supported by NSFC since 2016**_](https://www.nature.com/articles/d42473-019-00174-9?from=timeline&isappinstalled=0)
 
