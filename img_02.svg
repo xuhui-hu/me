@@ -38,9 +38,9 @@
      inkscape:window-height="1348"
      id="namedview7363"
      showgrid="false"
-     inkscape:zoom="9.5103658"
-     inkscape:cx="680.84276"
-     inkscape:cy="711.79371"
+     inkscape:zoom="6.7248442"
+     inkscape:cx="361.83596"
+     inkscape:cy="165.16581"
      inkscape:window-x="-12"
      inkscape:window-y="-12"
      inkscape:window-maximized="1"
@@ -8864,11 +8864,11 @@
                   <image
                      sodipodi:absref="C:\Users\Brain\Desktop\me\img_01.png"
                      xlink:href="img_01.png"
-                     x="0"
-                     y="0"
-                     width="400"
+                     id="image4396"
                      height="400"
-                     id="image4396" />
+                     width="400"
+                     y="0"
+                     x="0" />
                 </g>
               </g>
             </g>
@@ -14193,13 +14193,6 @@
              clip-path="url(#1454)"
              id="g7350" />
         </g>
-        <path
-           transform="matrix(1 0 0 -1 0 842)"
-           d="M167.8559 133.481L297.6989 133.481L297.6989 133.481L297.6989 134.215L297.6989 134.215L167.8559 134.215z"
-           stroke="none"
-           fill="#000000"
-           fill-rule="winding"
-           id="path7354" />
       </g>
     </g>
   </g>
