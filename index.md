@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# My Projects &nbsp;    [Press](./press.md) &nbsp;    [About Me](./about_me.html)
+# My Projects &nbsp;    [Press](./press.md) &nbsp;    [About Me](./about_me.md)
 * * *
 [_**Bionic Prostheses Research supported by NSFC since 2016**_](https://www.nature.com/articles/d42473-019-00174-9?from=timeline&isappinstalled=0)
 
@@ -46,7 +46,7 @@ After two years of fusing ML algorithm and new-designed robot hand, as well as t
 This preliminary project gave me many thinking for guiding my future research direction. I think sEMG tech is still a long way because it's a unstable signal,like EEG. it is easy to classify simple intentions, but confused for more dexterous intentions. In commercial prosthetic leg, they usually use force sensor in the feet to recognize gait, other than sEMG. and in prosthetic hand, majority of sEMG recognition is simplified to recognize flex and extend of wrist, it is still hard to predict fine intention. it's unstable not only result from its origin(conducting filter effect from muscle to skin),but also its collecting procedure, it is easy to be interrupted by electromagnetic radiation. One of amputee told me when he is approching Railway, his hand will be out of control. I remembered in one of videos of CTRL-Labs,The CEO Thomas Reardon also said <a href="https://www.youtube.com/watch?v=3GtRhy1maxc">they put much effort on EMI isolation.</a> With the advanced development of robot design, more efforts should be made in the research of sEMG, so I turned by direction on sEMG based motor control. 
 </div>
  
-![Multi-Finger_Hand](./picture/Multi-Finger_Hand.png)
+![Multi-Finger_Hand](./picture/Multi-Finger_Hand.gif)
 
 * * *
 [_**2015.3 R&D of a two-wheeled motorized personal vehicle**_](https://www.youtube.com/watch?v=EZ2f1EtyZls)
