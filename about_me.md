@@ -4,7 +4,7 @@ title: About me page
 description: This is the page of "About me"
 ---
 
-[My Projects](./index.md) &nbsp;    [Press](./press.md) &nbsp;    About Me
+#[My Projects](./index.md) &nbsp;    [Press](./press.md) &nbsp;    About Me
 
 <html>
 	<head>
@@ -118,4 +118,7 @@ description: This is the page of "About me"
 		</div>
 	</body>
 </html>
+=======
+{% include 062111163548.html %}
+>>>>>>> 53d2fa583af3a9d131dbed0edc7a551f32f2a9c6
 
